@@ -2,10 +2,7 @@ E-Commerce Platform README
 
 Welcome to our E-Commerce Platform! This platform is designed to provide a seamless online shopping experience. Below, you'll find essential information to get started.
 
-## Project Video Link
-<div>
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7159596805557567488/">Project Video</a>
-</div>
+
 
 ## Website Link
 <div>
